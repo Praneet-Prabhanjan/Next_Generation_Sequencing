@@ -22,7 +22,7 @@ Discuss: Engage in meaningful conversations about the latest trends, challenges,
 **Read My Medium Articles**
 I've also written several articles on Medium, where I delve deeper into topics related to NGS, Artificial Intelligence, and Bioinformatics. Feel free to check them out to gain additional insights and perspectives.
 
-[https://medium.com/@prabhanjan847 ](url)
+https://medium.com/@prabhanjan847 
 
 **Connect With Me** prabhanjan847@gmail.com
 I am always eager to connect with others who share my enthusiasm for these topics. Feel free to reach out if you'd like to discuss your research interests, explore potential collaborations, or simply have a conversation about the exciting world of bioinformatics and computational sciences.
